@@ -1,0 +1,276 @@
+--------------------------- 
+ test_0 assignment_1_controller
+[2024-02-04 17:47:52] 
+[2024-02-04 17:50:40] loop 1 - seconds 168.0100634098053 -succesful grabs 7 - failed grabs 0 - missed grabs 0
+[2024-02-04 17:50:53] 
+--------------------------- 
+ test_0 benchmark_controller
+[2024-02-04 17:51:13] 
+[2024-02-04 17:54:03] loop 1 - seconds 169.61917853355408 -succesful grabs 6 - failed grabs 0 - missed grabs 1
+--------------------------- 
+ test_1 assignment_1_controller
+[2024-02-04 17:54:34] 
+--------------------------- 
+ test_1 benchmark_controller
+[2024-02-04 17:57:53] 
+[2024-02-04 18:00:43] loop 1 - seconds 169.8682816028595 -succesful grabs 6 - failed grabs 0 - missed grabs 1
+--------------------------- 
+ test_2 assignment_1_controller
+[2024-02-04 18:01:22] 
+[2024-02-04 18:03:19] loop 1 - seconds 117.0739951133728 -succesful grabs 7 - failed grabs 0 - missed grabs 0
+[2024-02-04 18:03:33] 
+--------------------------- 
+ test_2 benchmark_controller
+[2024-02-04 18:04:33] 
+[2024-02-04 18:07:13] loop 1 - seconds 160.24912929534912 -succesful grabs 6 - failed grabs 0 - missed grabs 1
+[2024-02-04 18:07:23] 
+--------------------------- 
+ test_3 assignment_1_controller
+[2024-02-04 18:07:54] 
+--------------------------- 
+ test_3 benchmark_controller
+[2024-02-04 18:11:13] 
+--------------------------- 
+ test_4 assignment_1_controller
+[2024-02-04 18:14:34] 
+--------------------------- 
+ test_4 benchmark_controller
+[2024-02-04 18:17:53] 
+--------------------------- 
+ test_5 assignment_1_controller
+[2024-02-04 18:21:15] 
+[2024-02-04 18:23:30] loop 1 - seconds 135.45214009284973 -succesful grabs 7 - failed grabs 0 - missed grabs 0
+[2024-02-04 18:23:44] 
+--------------------------- 
+ test_5 benchmark_controller
+[2024-02-04 18:24:33] 
+[2024-02-04 18:27:20] loop 1 - seconds 166.99061679840088 -succesful grabs 6 - failed grabs 0 - missed grabs 1
+--------------------------- 
+ test_6 assignment_1_controller
+[2024-02-04 18:27:53] 
+[2024-02-04 18:29:52] loop 1 - seconds 119.37168741226196 -succesful grabs 7 - failed grabs 0 - missed grabs 0
+[2024-02-04 18:30:04] 
+--------------------------- 
+ test_6 benchmark_controller
+[2024-02-04 18:31:13] 
+[2024-02-04 18:33:53] loop 1 - seconds 159.88418817520142 -succesful grabs 7 - failed grabs 0 - missed grabs 0
+[2024-02-04 18:34:02] 
+--------------------------- 
+ test_7 assignment_1_controller
+[2024-02-04 18:34:33] 
+--------------------------- 
+ test_7 benchmark_controller
+[2024-02-04 18:37:53] 
+--------------------------- 
+ test_8 assignment_1_controller
+[2024-02-04 18:41:14] 
+[2024-02-04 18:43:26] loop 1 - seconds 131.78395986557007 -succesful grabs 6 - failed grabs 0 - missed grabs 1
+[2024-02-04 18:43:36] 
+--------------------------- 
+ test_8 benchmark_controller
+[2024-02-04 18:44:33] 
+--------------------------- 
+ test_9 assignment_1_controller
+[2024-02-04 18:47:54] 
+[2024-02-04 18:50:13] loop 1 - seconds 138.20491409301758 -succesful grabs 6 - failed grabs 0 - missed grabs 1
+[2024-02-04 18:50:50] 
+--------------------------- 
+ test_9 benchmark_controller
+[2024-02-04 18:51:13] 
+[2024-02-04 18:53:54] loop 1 - seconds 160.75398635864258 -succesful grabs 6 - failed grabs 0 - missed grabs 1
+[2024-02-04 18:54:03] 
+--------------------------- 
+ test_10 assignment_1_controller
+[2024-02-04 18:54:35] 
+[2024-02-04 18:56:43] loop 1 - seconds 128.72177481651306 -succesful grabs 7 - failed grabs 0 - missed grabs 0
+[2024-02-04 18:57:21] 
+--------------------------- 
+ test_10 benchmark_controller
+[2024-02-04 18:57:53] 
+[2024-02-04 19:00:35] loop 1 - seconds 161.6498625278473 -succesful grabs 6 - failed grabs 0 - missed grabs 1
+[2024-02-04 19:00:45] 
+--------------------------- 
+ test_11 assignment_1_controller
+[2024-02-04 19:01:22] 
+[2024-02-04 19:03:32] loop 1 - seconds 129.78843593597412 -succesful grabs 7 - failed grabs 0 - missed grabs 0
+[2024-02-04 19:03:44] 
+--------------------------- 
+ test_11 benchmark_controller
+[2024-02-04 19:04:33] 
+[2024-02-04 19:07:23] loop 1 - seconds 169.32553100585938 -succesful grabs 7 - failed grabs 0 - missed grabs 0
+--------------------------- 
+ test_12 assignment_1_controller
+[2024-02-04 19:07:54] 
+[2024-02-04 19:10:02] loop 1 - seconds 127.66842579841614 -succesful grabs 7 - failed grabs 0 - missed grabs 0
+[2024-02-04 19:10:32] 
+--------------------------- 
+ test_12 benchmark_controller
+[2024-02-04 19:11:13] 
+--------------------------- 
+ test_13 assignment_1_controller
+[2024-02-04 19:14:35] 
+--------------------------- 
+ test_13 benchmark_controller
+[2024-02-04 19:17:53] 
+[2024-02-04 19:20:32] loop 1 - seconds 158.68380331993103 -succesful grabs 7 - failed grabs 0 - missed grabs 0
+--------------------------- 
+ test_14 assignment_1_controller
+[2024-02-04 19:21:13] 
+--------------------------- 
+ test_14 benchmark_controller
+[2024-02-04 19:24:34] 
+[2024-02-04 19:27:02] loop 1 - seconds 148.0040900707245 -succesful grabs 6 - failed grabs 0 - missed grabs 1
+[2024-02-04 19:27:11] 
+--------------------------- 
+ test_15 assignment_1_controller
+[2024-02-04 19:27:54] 
+[2024-02-04 19:29:42] loop 1 - seconds 108.2156982421875 -succesful grabs 6 - failed grabs 0 - missed grabs 1
+[2024-02-04 19:30:20] 
+--------------------------- 
+ test_15 benchmark_controller
+[2024-02-04 19:31:14] 
+--------------------------- 
+ test_16 assignment_1_controller
+[2024-02-04 19:34:42] 
+[2024-02-04 19:36:34] loop 1 - seconds 112.21254277229309 -succesful grabs 6 - failed grabs 0 - missed grabs 1
+[2024-02-04 19:37:12] 
+--------------------------- 
+ test_16 benchmark_controller
+[2024-02-04 19:37:54] 
+[2024-02-04 19:40:36] loop 1 - seconds 162.5069935321808 -succesful grabs 6 - failed grabs 0 - missed grabs 1
+--------------------------- 
+ test_17 assignment_1_controller
+[2024-02-04 19:41:14] 
+--------------------------- 
+ test_17 benchmark_controller
+[2024-02-04 19:44:34] 
+--------------------------- 
+ test_18 assignment_1_controller
+[2024-02-04 19:48:02] 
+--------------------------- 
+ test_18 benchmark_controller
+[2024-02-04 19:51:14] 
+[2024-02-04 19:52:09] 
+--------------------------- 
+ test_19 assignment_1_controller
+[2024-02-04 19:54:34] 
+[2024-02-04 19:56:35] loop 1 - seconds 120.77099323272705 -succesful grabs 7 - failed grabs 0 - missed grabs 0
+[2024-02-04 19:56:48] 
+--------------------------- 
+ test_19 benchmark_controller
+[2024-02-04 19:57:54] 
+[2024-02-04 20:01:00] 
+--------------------------- 
+ test_20 assignment_1_controller
+[2024-02-04 20:01:15] 
+[2024-02-04 20:03:24] loop 1 - seconds 129.2955584526062 -succesful grabs 7 - failed grabs 0 - missed grabs 0
+[2024-02-04 20:03:37] 
+--------------------------- 
+ test_20 benchmark_controller
+[2024-02-04 20:04:34] 
+[2024-02-04 20:07:12] loop 1 - seconds 157.90810680389404 -succesful grabs 6 - failed grabs 0 - missed grabs 1
+[2024-02-04 20:07:21] 
+--------------------------- 
+ test_21 assignment_1_controller
+[2024-02-04 20:07:54] 
+--------------------------- 
+ test_21 benchmark_controller
+[2024-02-04 20:11:14] 
+[2024-02-04 20:13:56] loop 1 - seconds 162.5251932144165 -succesful grabs 7 - failed grabs 0 - missed grabs 0
+--------------------------- 
+ test_22 assignment_1_controller
+[2024-02-04 20:14:43] 
+[2024-02-04 20:16:36] loop 1 - seconds 112.8983085155487 -succesful grabs 7 - failed grabs 0 - missed grabs 0
+[2024-02-04 20:16:47] 
+--------------------------- 
+ test_22 benchmark_controller
+[2024-02-04 20:17:54] 
+[2024-02-04 20:20:35] loop 1 - seconds 161.45326137542725 -succesful grabs 7 - failed grabs 0 - missed grabs 0
+--------------------------- 
+ test_23 assignment_1_controller
+[2024-02-04 20:21:15] 
+[2024-02-04 20:23:39] loop 1 - seconds 144.34547305107117 -succesful grabs 6 - failed grabs 0 - missed grabs 1
+[2024-02-04 20:23:57] 
+--------------------------- 
+ test_23 benchmark_controller
+[2024-02-04 20:24:34] 
+--------------------------- 
+ test_24 assignment_1_controller
+[2024-02-04 20:27:55] 
+[2024-02-04 20:29:56] loop 1 - seconds 120.64148139953613 -succesful grabs 7 - failed grabs 0 - missed grabs 0
+[2024-02-04 20:30:33] 
+--------------------------- 
+ test_24 benchmark_controller
+[2024-02-04 20:31:14] 
+[2024-02-04 20:33:49] loop 1 - seconds 155.16045093536377 -succesful grabs 6 - failed grabs 0 - missed grabs 1
+--------------------------- 
+ test_25 assignment_1_controller
+[2024-02-04 20:34:34] 
+[2024-02-04 20:36:41] loop 1 - seconds 127.04100966453552 -succesful grabs 7 - failed grabs 0 - missed grabs 0
+[2024-02-04 20:37:21] 
+--------------------------- 
+ test_25 benchmark_controller
+[2024-02-04 20:37:54] 
+[2024-02-04 20:40:47] loop 1 - seconds 172.8246726989746 -succesful grabs 7 - failed grabs 0 - missed grabs 0
+--------------------------- 
+ test_26 assignment_1_controller
+[2024-02-04 20:41:13] 
+[2024-02-04 20:43:15] loop 1 - seconds 121.12037968635559 -succesful grabs 7 - failed grabs 0 - missed grabs 0
+[2024-02-04 20:44:19] 
+--------------------------- 
+ test_26 benchmark_controller
+[2024-02-04 20:44:34] 
+[2024-02-04 20:47:13] loop 1 - seconds 158.92033982276917 -succesful grabs 6 - failed grabs 0 - missed grabs 1
+[2024-02-04 20:47:23] 
+--------------------------- 
+ test_27 assignment_1_controller
+[2024-02-04 20:48:03] 
+--------------------------- 
+ test_27 benchmark_controller
+[2024-02-04 20:51:14] 
+--------------------------- 
+ test_28 assignment_1_controller
+[2024-02-04 20:54:34] 
+[2024-02-04 20:56:49] loop 1 - seconds 135.2479693889618 -succesful grabs 7 - failed grabs 0 - missed grabs 0
+[2024-02-04 20:57:01] 
+--------------------------- 
+ test_28 benchmark_controller
+[2024-02-04 20:57:54] 
+[2024-02-04 21:00:39] loop 1 - seconds 164.9451994895935 -succesful grabs 7 - failed grabs 0 - missed grabs 0
+--------------------------- 
+ test_29 assignment_1_controller
+[2024-02-04 21:01:14] 
+[2024-02-04 21:03:26] loop 1 - seconds 132.49793791770935 -succesful grabs 7 - failed grabs 0 - missed grabs 0
+[2024-02-04 21:03:38] 
+--------------------------- 
+ test_29 benchmark_controller
+[2024-02-04 21:04:34] 
+[2024-02-04 21:07:21] loop 1 - seconds 167.05969262123108 -succesful grabs 7 - failed grabs 0 - missed grabs 0
+[2024-02-04 21:07:31] 
+--------------------------- 
+ test_30 assignment_1_controller
+[2024-02-04 21:07:54] 
+--------------------------- 
+ test_30 benchmark_controller
+[2024-02-04 21:11:14] 
+--------------------------- 
+ test_31 assignment_1_controller
+[2024-02-04 21:14:35] 
+[2024-02-04 21:16:46] loop 1 - seconds 130.34979820251465 -succesful grabs 7 - failed grabs 0 - missed grabs 0
+[2024-02-04 21:17:14] 
+--------------------------- 
+ test_31 benchmark_controller
+[2024-02-04 21:17:54] 
+--------------------------- 
+ test_32 assignment_1_controller
+[2024-02-04 21:21:23] 
+[2024-02-04 21:23:23] loop 1 - seconds 119.73388767242432 -succesful grabs 7 - failed grabs 0 - missed grabs 0
+[2024-02-04 21:23:37] 
+--------------------------- 
+ test_32 benchmark_controller
+[2024-02-04 21:24:35] 
+[2024-02-04 21:27:26] loop 1 - seconds 171.45833587646484 -succesful grabs 7 - failed grabs 0 - missed grabs 0
+--------------------------- 
+ test_33 assignment_1_controller
+[2024-02-04 21:27:54] 
+[2024-02-04 21:29:57] loop 1 - seconds 123.1056981086731 -succesful grabs 7 - failed grabs 0 - missed grabs 0
