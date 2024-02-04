@@ -14,7 +14,7 @@ This repository is a modified version of [this repository](https://github.com/Sa
 
   - added code in the two controllers to save performance data in the [logs](https://github.com/Salvo-Dippolito/pygame_performance_testing/tree/main/logs) folder of this repository
 
-  - the results of the perforance analysis of the two controllers are presented in the [trial_results_notebook](https://github.com/Salvo-Dippolito/pygame_performance_testing/tree/main/trial_results_notebook) folder
+  - the results of the performance analysis of the two controllers are presented in the [trial_results_notebook](https://github.com/Salvo-Dippolito/pygame_performance_testing/tree/main/trial_results_notebook) folder
 
 #### How to run
 
