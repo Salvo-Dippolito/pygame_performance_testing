@@ -1,7 +1,7 @@
 Python Robotics Simulator Performance Testing
 ==============================================
 
-This repository is a modified version of the (repository)[https://github.com/Salvo-Dippolito/Research-Track-1] developed for the first assignment of the Research Track 1 course.
+This repository is a modified version of the [repository](https://github.com/Salvo-Dippolito/Research-Track-1) developed for the first assignment of the Research Track 1 course.
 
 #### Changes made:
 
