@@ -19,4 +19,7 @@ This repository is a modified version of [this repository](https://github.com/Sa
 #### How to run
 
 After cloning this repo, move to its base folder and run the run_all_tests.sh bash script. 
-This script will perform 46 trials for each controller, so 92 trials in total. At the start of each trial the 'sunny side up arena' map,  where the controllers' performances are being tested, gets loaded with all of its silver tokens placed in newly randomized positions and both controllers get tested on the same newly randomized map. Each trial lasts 200 seconds, so the total execution time needed to have a complete log file with the results of all the prescribed trials is a little over 5 hours.
+This script will perform 46 trials for each controller, so 92 trials in total. At the start of each trial the 'sunny side up arena' map,  where the controllers' performances are being tested, gets loaded with all of its silver tokens placed in newly randomized positions and both controllers get tested on the same newly randomized map. Each trial lasts 200 seconds, so the total execution time needed to have a complete log file with the results of all the prescribed trials is a little over 5 hours. 
+
+
+Of course the run_alll_tests.sh bash script can be easily modified to perform more trials, trial logs can also be merged together by copy pasting them in a single txt file than can be fed to the [data processing notebook](https://github.com/Salvo-Dippolito/pygame_performance_testing/tree/main/trial_results_notebook) like any other log file.
